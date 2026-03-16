@@ -116,7 +116,7 @@ if(NUM_LOOPS>=10)    {
 ## OUTPUT
 v
 $ ./sem.o 
-
+"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-16 081231.png"
 
 $ ipcs
 
