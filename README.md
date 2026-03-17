@@ -114,7 +114,8 @@ if(NUM_LOOPS>=10)    {
 
 `````
 ## OUTPUT
-v
+<img width="480" height="582" alt="image" src="https://github.com/user-attachments/assets/5af4e084-2119-4b75-ba78-43096f64c1d5" />
+
 $ ./sem.o 
 "C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-16 081231.png"
 
